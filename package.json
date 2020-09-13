@@ -1,6 +1,6 @@
 {
   "name": "webcam-shim",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small shim for cross-browser compatibility of webcams getUserMedia API",
   "main": "index.js",
   "scripts": {
